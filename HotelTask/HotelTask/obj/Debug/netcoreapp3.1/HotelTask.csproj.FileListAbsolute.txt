@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/bin/Debug/netcoreapp3.1/HotelTask.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/bin/Debug/netcoreapp3.1/HotelTask.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/bin/Debug/netcoreapp3.1/HotelTask.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/bin/Debug/netcoreapp3.1/HotelTask.dll
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/bin/Debug/netcoreapp3.1/HotelTask.pdb
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.dll
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.pdb
+/Users/ibrahimaliyevv/Projects/HometasksGenericIndexerYieldCollections/HotelTask/HotelTask/obj/Debug/netcoreapp3.1/HotelTask.genruntimeconfig.cache
