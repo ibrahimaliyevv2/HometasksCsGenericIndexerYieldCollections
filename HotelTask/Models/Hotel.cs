@@ -13,15 +13,29 @@ namespace Models
             Array.Resize(ref _rooms, _rooms.Length + 1);
             _rooms[_rooms.Length - 1] = room;
         }
-        public bool MakeReservation(int? roomId)
+        public void MakeReservation(int? roomId)
         {
-            try
+            if (roomId != null)
             {
-                throw new NotAvailableException {Message = "Null problem" };
+                foreach (var item in Rooms)
+                {
+                    if (item.Id == roomId)
+                    {
+                        if (item.IsAviable == true)
+                        {
+                            item.IsAviable = false;
+                        }
+                        else
+                        {
+                            throw new NotAvailableException("Available deyil!");
+                        }
+                    }
+                }
+             
             }
-            catch(NotAvailableException ex)
+            else
             {
-                Console.WriteLine(ex.Message);
+                throw new NullReferenceException();
             }
         }
     }
